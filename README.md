@@ -1,0 +1,1 @@
+This repository demonstrates code samples related to the Stack Overflow question: [Eagerly load nested association using HQL](https://stackoverflow.com/questions/64304660/eagerly-load-nested-association-using-hql)
